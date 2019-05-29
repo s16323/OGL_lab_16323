@@ -1,0 +1,14 @@
+# Blender MTL File: 'Brzeg.blend'
+# Material Count: 1
+
+newmtl Trawa
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.203266 0.492141 0.131033
+Ks 0.120438 0.120438 0.120438
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd brzeg.tga
+map_Bump -bm 0.300000 -s 24.000000 24.000000 24.000000 C:\\Users\\Artur\\Desktop\\PJATK\\Sem6\\OGL\\Brzeg\\GRASS1JPG_rxxhprq.JPG

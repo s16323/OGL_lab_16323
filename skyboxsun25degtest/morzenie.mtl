@@ -1,0 +1,13 @@
+# Blender MTL File: 'brzeg2.blend'
+# Material Count: 1
+
+newmtl Morze
+Ns 194.117647
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.005880 0.018844
+Ks 0.495807 0.465072 0.776923
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd morzenie.tga
